@@ -123,7 +123,7 @@ export default function Home() {
 			toast({
 				title: "Collection Success.",
 				position: "bottom-left",
-				description: "We've sent funds 1SPX and 1000USDC to your account.",
+				description: "We have sent funds 1SPX and 1000USDC to your account.",
 				status: "success",
 				duration: 5000,
 				isClosable: true,
